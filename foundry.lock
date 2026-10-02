@@ -1,0 +1,20 @@
+{
+  "Module2/lib/openzeppelin-contracts": {
+    "rev": "cab19933c33c2ad1d4c7a84864a3601dddfd16f3"
+  },
+  "Module3/lib/openzeppelin-contracts": {
+    "rev": "cab19933c33c2ad1d4c7a84864a3601dddfd16f3"
+  },
+  "Module4/lib/openzeppelin-contracts": {
+    "rev": "dc44c9f1a4c3b10af99492eed84f83ed244203f6"
+  },
+  "Module6/lib/openzeppelin-contracts": {
+    "rev": "cab19933c33c2ad1d4c7a84864a3601dddfd16f3"
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v5.7.0",
+      "rev": "cab19933c33c2ad1d4c7a84864a3601dddfd16f3"
+    }
+  }
+}
